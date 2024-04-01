@@ -3,7 +3,7 @@
     Mostly Cybersecurity, Networking and some webdev and other small projects
 
 #### Projects
-    ExamPrep: https://www.examprep.sk [Launching in late april / early may, 
+    ExamPrep: [Launching in late april / early may, 
     this project will help students study better for exams and tests]
     [Django, React, PostgreSQL]
     arduino-shortcuts: [buttons and shortcuts, you can control your pc wiht arduino, shutdown, save electricity, customizable ]
@@ -12,4 +12,4 @@
 #### Contact
       Telegram: t.me/miguelmiguemigu
       X: @_michalmeciar
-    	LinkedIn: /michalmeciar
+      LinkedIn: /michalmeciar

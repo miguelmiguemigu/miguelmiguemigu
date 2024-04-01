@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, 👋
+    I'm Michal, studying information technologies and networking.
+    Mostly Cybersecurity, Networking and some webdev and other small projects
 
-<!--
-**miguelmiguemigu/miguelmiguemigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+    ExamPrep: https://www.examprep.sk [Launching in late april / early may, 
+    this project will help students study better for exams and tests]
+    [Django, React, PostgreSQL]
+    arduino-shortcuts: [buttons and shortcuts, you can control your pc wiht arduino, shutdown, save electricity, customizable ]
+    [Python, C++, Batchfile]
+    
+#### Contact
+      Telegram: t.me/miguelmiguemigu
+      X: @_michalmeciar
+    	LinkedIn: /michalmeciar
